@@ -1,0 +1,22 @@
+html {
+  background-image: url(/img/library-cards.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+body {
+  background: transparent;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.form {
+  background-image: url(/img/green_marble.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 25px 10px 25px 10px;
+}
